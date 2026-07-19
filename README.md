@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jirat Panunta</h1>
 <h3 align="center">CS Student UP66</h3>
 
-- 🌱 I’m currently learning **Web application**
+- 🌱 I’m currently learning **Mobile application**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
